@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=k3&color=auto&height=250&section=header&text=Jencel%20P.%20Sofer&fontSize=70&animation=fadeIn&desc=Computer%20Science%20Student&descAlignY=65&descAlign=50" width="800" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRxbmFzMXAyMjVoZGZ5eTRsNzJzZjF6NmpxYXV5a2VncGQ1OGozbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pjwHYT6a3MdggZlvrk/giphy.gif" width="800" alt="Terminal Animation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Passionate+about+AI+and+Deep+Learning;Building+the+future+with+code...;Status:+Learning+and+Growing" alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Jencel%20P.%20Sofer&fontSize=50&animation=fadeIn" width="800" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Passionate+about+AI+and+Deep+Learning;Status:+Building+the+Future" alt="Typing Animation" />
 
 <br/>
 
@@ -26,7 +28,7 @@
 
 ## 👨‍💻 About Me
 <p align="left">
-I am <b>Jencel P. Sofer</b>, a dedicated <b>Computer Science student</b> with a strong interest in Machine Learning, Deep Learning, and Software Development. I enjoy solving complex problems and building efficient applications using modern technologies.
+I am <b>Jencel P. Sofer</b>, a <b>Computer Science student</b> specializing in building intelligent systems. My expertise lies in Machine Learning and Deep Learning, with a focus on creating efficient, data-driven solutions.
 </p>
 
 ---
