@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Jencel%20P.%20Sofer&fontSize=50&animation=fadeIn" width="800" />
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Passionate+about+AI+and+Deep+Learning;Status:+Building+the+Future" alt="Typing Animation" />
 
