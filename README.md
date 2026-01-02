@@ -52,6 +52,5 @@ I am <b>Jencel P. Sofer</b>, a <b>Computer Science student</b> specializing in b
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=100&section=footer&text=~/contact_me&fontSize=35" width="800" />
 
 </div>
