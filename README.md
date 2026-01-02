@@ -36,7 +36,7 @@
 ### Software and Tools
 | | | | |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=git" width="45" title="Git"> | <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker"> | <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"> | <img src="https://img.icons8.com/color/45/trae.png" width="45" title="Trae IDE"> |
+| <img src="https://skillicons.dev/icons?i=git" width="45" title="Git"> | <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker"> | <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"> | <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_trae_icon_130458.png" width="45" title="Trae IDE"> |
 
 <br/>
 
