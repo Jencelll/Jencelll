@@ -16,8 +16,7 @@
 <br/>
 
 <p>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Jencel"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:jencelsofer@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -48,7 +47,7 @@ I am <b>Jencel P. Sofer</b>, a <b>Computer Science student</b> specializing in b
 ### Software and Tools
 | | | | |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=git" width="45" title="Git"> | <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker"> | <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"> | <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_trae_icon_130458.png" width="45" title="Trae IDE"> |
+| <img src="https://skillicons.dev/icons?i=git" width="45" title="Git"> | <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker"> | <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"> | <img src="https://raw.githubusercontent.com/saadpasta/developer-stack-icons/main/icons/trae.png" width="45" title="Trae IDE"> |
 
 <br/>
 
