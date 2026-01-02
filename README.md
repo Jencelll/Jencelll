@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=voxdroid.core&fontSize=70" width="800" />
+<img src="https://capsule-render.vercel.app/render?type=k3&color=auto&height=250&section=header&text=Jencel%20P.%20Sofer&fontSize=70&animation=fadeIn&desc=Computer%20Science%20Student&descAlignY=65&descAlign=50" width="800" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Passionate+about+AI+and+Deep+Learning;Building+the+future+with+code...;Status:+Learning+and+Growing" alt="Typing Animation" />
 
 <br/>
 
@@ -13,15 +17,21 @@
   <a href="https://github.com/your-username">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00dfd8?style=for-the-badge" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <hr />
 
-## Tech Stack & Tools
-<p><i>Technologies and tools</i></p>
+## 👨‍💻 About Me
+<p align="left">
+I am <b>Jencel P. Sofer</b>, a dedicated <b>Computer Science student</b> with a strong interest in Machine Learning, Deep Learning, and Software Development. I enjoy solving complex problems and building efficient applications using modern technologies.
+</p>
+
+---
+
+## 🛠 Tech Stack & Tools
 
 ### Programming Languages
 | | | | | | | | |
@@ -40,6 +50,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=footer&text=~/about_me&fontSize=40" width="800" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=footer&text=~/contact_me&fontSize=40" width="800" />
 
 </div>
