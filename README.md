@@ -16,7 +16,8 @@
 <br/>
 
 <p>
-  <a href="https://github.com/Jencel"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Jencelll">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:jencelsofer@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -51,6 +52,6 @@ I am <b>Jencel P. Sofer</b>, a <b>Computer Science student</b> specializing in b
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=footer&text=~/contact_me&fontSize=40" width="800" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=100&section=footer&text=~/contact_me&fontSize=35" width="800" />
 
 </div>
