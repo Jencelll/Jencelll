@@ -10,8 +10,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-889,784-4169E1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STARS-300-ff69b4?style=for-the-badge" />
 
 <br/>
 
