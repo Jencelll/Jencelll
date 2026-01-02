@@ -6,21 +6,20 @@
 
 <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Jencel%20P.%20Sofer&fontSize=50&animation=fadeIn" width="800" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Passionate+about+AI+and+Deep+Learning;Building+the+Future+with+Code;Status:+Learning+and+Growing" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Passionate+about+AI+and+Deep+Learning;Status:+Building+the+Future" alt="Typing Animation" />
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
-</p>
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-889,784-4169E1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STARS-300-ff69b4?style=for-the-badge" />
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-889,784-4169E1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STARS-300-ff69b4?style=for-the-badge" />
-  <a href="mailto:your-email@example.com">
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:jencelsofer@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -51,17 +50,8 @@ I am <b>Jencel P. Sofer</b>, a <b>Computer Science student</b> specializing in b
 | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=git" width="45" title="Git"> | <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker"> | <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"> | <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_trae_icon_130458.png" width="45" title="Trae IDE"> |
 
----
-
-## 🐍 Contribution Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=100&section=footer&text=~/contact_me&fontSize=30" width="800" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=footer&text=~/contact_me&fontSize=40" width="800" />
 
 </div>
