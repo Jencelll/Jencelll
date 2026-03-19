@@ -4,13 +4,9 @@
 
 <br/>
 
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Passionate+about+AI+and+Deep+Learning;Status:+Building+the+Future" alt="Typing Animation" />
 
 <br/>
-
-
 <br/>
 
 <p>
@@ -48,7 +44,15 @@ I am <b>Jencel P. Sofer</b>, a <b>Computer Science student</b> specializing in b
 | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=git" width="45" title="Git"> | <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker"> | <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"> | <img src="https://raw.githubusercontent.com/saadpasta/developer-stack-icons/main/icons/trae.png" width="45" title="Trae IDE"> |
 
-<br/>
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jencelll&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&hide_border=true" alt="Jencel's GitHub Stats" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jencelll&layout=compact&theme=dark&title_color=ff0000&hide_border=true" alt="Top Languages" height="192" />
+</p>
+
+<br/>
 
 </div>
