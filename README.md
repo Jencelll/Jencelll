@@ -42,7 +42,7 @@ I am <b>Jencel P. Sofer</b>, a <b>Computer Science student</b> specializing in b
 ### Software and Tools
 | | | | |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=git" width="45" title="Git"> | <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker"> | <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"> | <img src="https://raw.githubusercontent.com/saadpasta/developer-stack-icons/main/icons/trae.png" width="45" title="Trae IDE"> |
+| <img src="https://skillicons.dev/icons?i=git" width="45" title="Git"> | <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker"> | <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"> | <img src="trae.png" width="45" title="Trae IDE" style="border-radius: 8px;"> |
 
 ---
 
