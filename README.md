@@ -16,16 +16,17 @@
   <a href="mailto:jencelsofer@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Jencelll&color=00DFD8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<hr />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
 
 ## 👨‍💻 About Me
 <p align="left">
 I am <b>Jencel P. Sofer</b>, a <b>Computer Science student</b> specializing in building intelligent systems. My expertise lies in Machine Learning and Deep Learning, with a focus on creating efficient, data-driven solutions.
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
 
 ## 🛠 Tech Stack & Tools
 
@@ -44,7 +45,7 @@ I am <b>Jencel P. Sofer</b>, a <b>Computer Science student</b> specializing in b
 | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=git" width="45" title="Git"> | <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker"> | <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"> | <img src="trae.png" width="45" title="Trae IDE" style="border-radius: 8px;"> |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
 
 ## 📊 GitHub Stats
 
@@ -55,6 +56,10 @@ I am <b>Jencel P. Sofer</b>, a <b>Computer Science student</b> specializing in b
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jencelll&background=0d1117&ring=00DFD8&fire=00DFD8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00DFD8&sideLabels=c9d1d9&dates=c9d1d9&border=00DFD8&border_radius=10" alt="GitHub Streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jencelll&bg_color=0d1117&color=00DFD8&line=00DFD8&point=FFFFFF&area=true&hide_border=true&border_radius=10" alt="Activity Graph" width="800" />
 </p>
 
 <br/>
