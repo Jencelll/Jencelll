@@ -49,8 +49,12 @@ I am <b>Jencel P. Sofer</b>, a <b>Computer Science student</b> specializing in b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jencelll&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&hide_border=true" alt="Jencel's GitHub Stats" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jencelll&layout=compact&theme=dark&title_color=ff0000&hide_border=true" alt="Top Languages" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jencelll&show_icons=true&bg_color=0d1117&title_color=00DFD8&icon_color=00DFD8&text_color=c9d1d9&border_color=00DFD8&border_radius=10" alt="Jencel's GitHub Stats" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jencelll&layout=compact&bg_color=0d1117&title_color=00DFD8&text_color=c9d1d9&border_color=00DFD8&border_radius=10" alt="Top Languages" height="192" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jencelll&background=0d1117&ring=00DFD8&fire=00DFD8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00DFD8&sideLabels=c9d1d9&dates=c9d1d9&border=00DFD8&border_radius=10" alt="GitHub Streak" height="170" />
 </p>
 
 <br/>
