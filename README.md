@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 <p align="left">
-<b>Computer Science student</b> specializing in building intelligent systems. My expertise lies in Machine Learning and Deep Learning, with a focus on creating efficient, data-driven solutions.
+<b>Computer Science</b> specializing in building intelligent systems. My expertise lies in Machine Learning and Deep Learning, with a focus on creating efficient, data-driven solutions.
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
